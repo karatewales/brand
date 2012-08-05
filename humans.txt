@@ -3,18 +3,15 @@
 
 
 /* TEAM */
-  <your title>: <your name>
-  Site:
-  Twitter:
-  Location:
-
-/* THANKS */
-  Names (& URL):
+  Kevin Prince
+  Site: http://www.kevinprince.me/
+  Twitter: kevinprince
+  Location: London
 
 /* SITE */
   Standards: HTML5, CSS3
   Components: Modernizr, jQuery
-  Software:
+  Software: TextMate
 
 
 
